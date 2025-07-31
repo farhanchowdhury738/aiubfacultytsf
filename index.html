@@ -1,216 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIUB Faculty Class Schedule</title>
-    <link rel="icon" type="image/png" href="aiub_conn_logo.png"/>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HOME</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
-<header id="main-header">
-  <div class="header-title">
-    <h1>Faculty TSF</h1>
-    <p>SUMMER 2024-2025</p>
-  </div>
-</header>
+  <!-- Header -->
+  <header id="main-header">
+    <div class="header-title">
+      <h1>Made for You</h1>
+    </div>
+  </header>
 
-  
+  <!-- Main Content -->
   <div class="container">
-    <div class="filters">
-      <input list="faculty-list" id="faculty-input" placeholder="Search Faculty Name" />
-      <datalist id="faculty-list"></datalist>
-      <input type="text" id="search" placeholder="Search Course or Room" />
-    </div>
-    
-    <div class="download-area" id="download-area">
-      <h2 id="dynamic-header">TSF of [Faculty Name]</h2>
-      <div class="card-container" id="card-container">
-        <div class="watermark"></div>
+    <div class="card">
+      <img src="https://img.icons8.com/ios-filled/100/000000/conference-call.png" alt="TSF Icon" width="60" />
+      <h3>Faculty TSF</h3>
+      <div class="card-facultyInfo">
+        <p><a href="/FacultyTsf/">Click to open</a></p>
       </div>
-      <p class="footer-text" id="footer-text"></p>
     </div>
 
-    <p id="no-results" class="no-results">No results found.</p>
-    <button id="download-btn">Download as Image</button>
-    <div class="pagination" id="pagination-controls">
-      <button id="prev" disabled>Previous</button>
-      <button id="next" disabled>Next</button>
+    <div class="card" onclick="location.href='#'">
+      <img src="https://img.icons8.com/ios-filled/100/000000/information.png" alt="Faculty Info Icon" width="60" />
+      <h3>Faculty Information</h3>
+      <div class="card-facultyInfo">
+        <p><a href="/FacultyInfo/index.html">Click to open</a></p>
+      </div>
     </div>
   </div>
 
-  <div class="footer">
-    <footer>
-      <p>All data collected from the AIUB official website.</p>
-   </footer>
+  <!-- Footer -->
+  <footer>
+    <p>All data collected from the AIUB official website.</p>
+  </footer>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-
-
-
-  <script>
-
-    const searchInput = document.getElementById("search");
-    const facultyInput = document.getElementById("faculty-input");
-    const facultyList = document.getElementById("faculty-list");
-    const cardContainer = document.getElementById("card-container");
-    const downloadHeader = document.getElementById("dynamic-header");
-    const footerText = document.getElementById("footer-text");
-    const noResultsMessage = document.getElementById("no-results");
-    const prevButton = document.getElementById("prev");
-    const nextButton = document.getElementById("next");
-    const paginationControls = document.getElementById("pagination-controls");
-    const rowsPerPage = 20;
-    const dayOrder = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-    let allData = [];
-    let filteredData = [];
-    let currentPage = 1;
-
-    fetch("routine.json")
-      .then(response => {
-        if (!response.ok) throw new Error("Failed to fetch routine.json");
-        return response.json();
-      })
-      .then(data => {
-        allData = data;
-        populateFacultyList(data);
-      })
-      .catch(error => {
-        console.error("Error fetching data:", error);
-      });
-
-    function populateFacultyList(data) {
-      const facultyNames = [...new Set(data.map(item => item["Faculty"]).filter(Boolean))];
-      facultyNames.sort();
-      facultyNames.forEach(faculty => {
-        const option = document.createElement("option");
-        option.value = faculty;
-        facultyList.appendChild(option);
-      });
-    }
-
-    function filterAndDisplayData() {
-      const faculty = facultyInput.value.trim();
-      const query = searchInput.value.trim().toLowerCase();
-
-      if (faculty) {
-        downloadHeader.textContent = `TSF of ${faculty}`;
-      } else {
-        downloadHeader.textContent = "TSF of [Faculty Name]";
-      }
-
-      filteredData = allData.filter(item => {
-        const matchesFaculty = !faculty || item["Faculty"].toLowerCase().includes(faculty.toLowerCase());
-        const matchesQuery = !query || Object.values(item).some(val =>
-          String(val).toLowerCase().includes(query)
-        );
-        return matchesFaculty && matchesQuery;
-      });
-
-      filteredData.sort((a, b) => {
-        const dayA = dayOrder.indexOf(a["Day"] || "");
-        const dayB = dayOrder.indexOf(b["Day"] || "");
-        return dayA - dayB;
-      });
-
-      currentPage = 1;
-      displayCards(filteredData);
-    }
-
-    function displayCards(data) {
-      cardContainer.innerHTML = '<div class="watermark"></div>';
-
-      const start = (currentPage - 1) * rowsPerPage;
-      const end = start + rowsPerPage;
-      const pageData = data.slice(start, end);
-
-      if (pageData.length === 0) {
-        noResultsMessage.style.display = "block";
-        cardContainer.style.display = "none";
-        paginationControls.style.display = "none";
-      } else {
-        noResultsMessage.style.display = "none";
-        cardContainer.style.display = "grid";
-        paginationControls.style.display = "flex";
-
-        pageData.forEach(item => {
-          const dayClass = item["Day"]
-            ? `day-${item["Day"].toLowerCase()}`
-            : "";
-
-          const card = `
-            <div class="card">
-              <h3>${item["Course Title"] || "Unknown Course"}</h3>
-              <p><strong>Section:</strong> ${item["Section"] || "N/A"}</p>
-              <p><strong>Faculty:</strong> ${item["Faculty"] || "N/A"}</p>
-              <p><strong>Type:</strong> ${item["Type"] || "N/A"}</p>
-              <p><strong>Day:</strong> <span class="day-highlight ${dayClass}">${item["Day"] || "N/A"}</span></p>
-              <p><strong>Time:</strong> ${item["Start Time"] || "N/A"} - ${item["End Time"] || "N/A"}</p>
-              <p><strong>Room:</strong> ${item["Room"] || "N/A"}</p>
-              <p><strong>Department:</strong> ${item["Department"] || "N/A"}</p>
-            </div>
-          `;
-          cardContainer.innerHTML += card;
-        });
-
-        prevButton.disabled = currentPage === 1;
-        nextButton.disabled = end >= data.length;
-      }
-    }
-
-    facultyInput.addEventListener("input", filterAndDisplayData);
-    searchInput.addEventListener("input", filterAndDisplayData);
-
-    prevButton.addEventListener("click", () => {
-      if (currentPage > 1) {
-        currentPage--;
-        displayCards(filteredData);
-      }
-    });
-
-    nextButton.addEventListener("click", () => {
-      if (currentPage * rowsPerPage < filteredData.length) {
-        currentPage++;
-        displayCards(filteredData);
-      }
-    });
-
-    document.getElementById("download-btn").addEventListener("click", () => {
-  const downloadArea = document.getElementById("download-area");
-  downloadArea.classList.add("landscape-download");
-
-  function getOrdinalSuffix(day) {
-    if (day > 3 && day < 21) return "th";
-    switch (day % 10) {
-      case 1: return "st";
-      case 2: return "nd";
-      case 3: return "rd";
-      default: return "th";
-    }
-  }
-
-  const now = new Date();
-  const day = now.getDate();
-  const month = now.toLocaleString("default", { month: "long" });
-  const year = now.getFullYear();
-  const formattedDate = `${day}${getOrdinalSuffix(day)} ${month} ${year}`;
-  const time = now.toLocaleTimeString();
-  document.getElementById("footer-text").textContent = `Generated from FARHAN-DEV, Downloaded on ${formattedDate} at ${time}.`;
-
-  html2canvas(downloadArea, {
-    scale: 2,
-    useCORS: true,
-    allowTaint: true
-  }).then(canvas => {
-    downloadArea.classList.remove("landscape-download");
-    const link = document.createElement("a");
-    link.download = "tsf.png";
-    link.href = canvas.toDataURL("image/png", 1.0);
-    link.click();
-  });
-});
-
-  </script>
 </body>
 </html>

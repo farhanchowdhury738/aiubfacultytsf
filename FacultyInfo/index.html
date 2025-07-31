@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Find AIUB Faculty</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header id="main-header">
+    <div class="header-title">
+      <h1>AIUB Faculty Directory</h1>
+      <a href="/index.html" class="home-button">Home</a>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <div class="container">
+    
+    <!-- Filter Inputs -->
+    <div class="filters">
+      <input list="faculty-list" id="faculty-input" placeholder="Search Faculty Name" />
+      <datalist id="faculty-list"></datalist>
+
+      <input type="text" id="search" placeholder="Search Room, Department, Designation" />
+    </div>
+
+    <!-- Downloadable Display Area -->
+    <div class="download-area" id="download-area">
+      <h2 id="dynamic-header">[Faculty Name]</h2>
+      <div class="card-container" id="card-container">
+        <!-- Faculty cards will be injected here -->
+      </div>
+      <p class="footer-text" id="footer-text"></p>
+    </div>
+
+    <!-- No Results Message -->
+    <p id="no-results" class="no-results">No results found.</p>
+
+    <!-- Download Button -->
+    <button id="download-btn">Download as Image</button>
+
+    <!-- Pagination Controls -->
+    <div class="pagination" id="pagination-controls">
+      <button id="prev" disabled>Previous</button>
+      <button id="next" disabled>Next</button>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>All data collected from the AIUB official website.</p>
+  </footer>
+
+  <!-- External Libraries and Script -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,313 @@
+/* ====== Global Base Styles ====== */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ====== Header Styles ====== */
+header {
+  background-color: #2c2b38;
+  color: white;
+  text-align: center;
+  padding: 15px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.header-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.header-title h1 {
+  font-size: 22px;
+  margin: 0;
+  color: #ffffff;
+}
+
+.header-title p {
+  font-size: 16px;
+  margin: 0;
+  color: #d1d5db;
+}
+
+/* ====== Main Container ====== */
+.container {
+  padding: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex: 1;
+}
+
+/* ====== Filter Input Styles ====== */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 15px;
+  min-height: 60px;
+}
+
+
+.filters input,
+.filters datalist {
+  padding: 12px 16px;
+  font-size: 15px;
+  border: 1px solid #d1d5db;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  background-color: #fff;
+  outline: none;
+}
+
+.filters input:focus {
+  border-color: #3256db;
+  box-shadow: 0 4px 8px rgba(50, 86, 219, 0.2);
+}
+
+
+/* ====== Download Area ====== */
+.download-area {
+  position: relative;
+  /* padding: 20px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px; */
+}
+
+.download-area h2 {
+  text-align: center;
+  font-size: 22px;
+  color: #be1531;
+  margin-bottom: 20px;
+}
+
+/* ====== Card Container Grid ====== */
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  position: relative;
+}
+
+/* ====== Card Styles ====== */
+.card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 8px 24px rgba(50, 86, 219, 0.15);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  transition: all 0.3s ease;
+  position: relative;
+  border-top: 4px solid #3256db;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(50, 86, 219, 0.25);
+}
+
+.card h3 {
+  margin: 10px 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #06234b;
+}
+
+.card p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+.card p strong {
+  color: #06234b;
+}
+
+/* ====== Day Tag Styles ====== */
+.day-highlight {
+  display: inline-block;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 13px;
+  color: white;
+}
+
+.day-sunday    { background-color: #3826fa; }
+.day-monday    { background-color: #0bce22; }
+.day-tuesday   { background-color: #3826fa; }
+.day-wednesday { background-color: #0bce22; }
+.day-thursday  { background-color: #ff6666; }
+.day-friday    { background-color: #9966ff; }
+.day-saturday  { background-color: #8222db; }
+
+
+/* ====== Watermark Background ====== */
+.watermark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('aiub_conn_logo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60px;
+  opacity: 0.1;
+  z-index: -1;
+}
+
+/* ====== Footer Text Below Cards ====== */
+.footer-text {
+  text-align: center;
+  font-size: 12px;
+  color: #555;
+  margin-top: 20px;
+}
+
+/* ====== No Results Message ====== */
+.no-results {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+  display: none;
+}
+
+/* ====== Pagination Buttons ====== */
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 10px 15px;
+  margin: 0 5px;
+  border: 1px solid #06234b;
+  background-color: #06234b;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* ====== Footer Section ====== */
+footer {
+  background-color: #06234b;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
+
+/* ====== Download Button ====== */
+#download-btn {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #06234b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#download-btn:hover {
+  background-color: #06234b;
+}
+
+/* ====== Navbar Styling ====== */
+.navbar {
+  overflow: hidden;
+  background-color: #06234b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #06234b;
+  color: white;
+}
+
+/* ====== Heading Style in Header ====== */
+h3 {
+  margin-top: 0px;
+  color: #a1c1f1;
+}
+
+/* ====== Responsive Grid Layout ====== */
+@media (max-width: 768px) {
+  .card-container {
+    grid-template-columns: repeat(1, 2fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .card-container {
+    grid-template-columns: repeat(1, 2fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .filters {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+
+/* ====== Landscape Download View for Image Export ====== */
+.landscape-download .card-container {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important;
+  grid-auto-rows: auto !important;
+  gap: 10px !important;
+}
+
+.landscape-download .card {
+  box-shadow: none !important;
+  border: 1px solid #3256db;
+  font-size: 13px !important;
+  padding: 10px !important;
+  margin: 0 !important;
+}
+
+.landscape-download #download-area {
+  max-width: 100% !important;
+  width: 100vw;
+  background-color: white !important;
+}
+
+.landscape-download .watermark {
+  opacity: 0.05 !important;
+}

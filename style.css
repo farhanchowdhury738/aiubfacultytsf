@@ -90,7 +90,7 @@ header {
 .download-area h2 {
   text-align: center;
   font-size: 22px;
-  color: #be1531;
+  color: #2315be;
   margin-bottom: 20px;
 }
 
@@ -214,7 +214,7 @@ header {
 
 /* ====== Footer Section ====== */
 footer {
-  background-color: #06234b;
+  background-color: #2c2b38;
   color: white;
   text-align: center;
   padding: 10px;

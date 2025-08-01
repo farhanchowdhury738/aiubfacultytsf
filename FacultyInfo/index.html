@@ -9,17 +9,21 @@
 <body>
 
   <!-- Header Section -->
-  <header id="main-header">
-    <div class="header-title">
-      <h1>AIUB Faculty Directory</h1>
-      <a href="../index.html" class="home-button">Home</a>
+<header id="main-header">
+  <div class="header-title-wrapper">
+    <a href="../index.html" class="home-button">Home</a>
+    <div class="title-pair">
+      <h1>Faculty Information</h1>
     </div>
-  </header>
+  </div>
+</header>
+
+
 
   <!-- Main Container -->
   <div class="container">
 
-    <!-- ✅ Start of new wrapper -->
+    <!-- Start new wrapper -->
     <div id="capture-area">
 
       <!-- Filter Inputs -->
@@ -30,17 +34,17 @@
         <input type="text" id="search" placeholder="Search Room, Department, Designation" />
       </div>
 
-      <!-- Downloadable Display Area -->
+      <!-- Download Area -->
       <div class="download-area" id="download-area">
         <h2 id="dynamic-header">[Faculty Name]</h2>
         <div class="card-container" id="card-container">
-          <!-- Faculty cards will be injected here -->
+          <!-- Faculty cards will be here dynamic way -->
         </div>
         <p class="footer-text" id="footer-text"></p>
       </div>
 
     </div>
-    <!-- ✅ End of wrapper -->
+    <!-- End of wrapper -->
 
     <!-- No Results Message -->
     <p id="no-results" class="no-results">No results found.</p>
@@ -48,7 +52,7 @@
     <!-- Download Button -->
     <button id="download-btn">Download as Image</button>
 
-    <!-- Pagination Controls -->
+    <!-- back previous Controls -->
     <div class="pagination" id="pagination-controls">
       <button id="prev" disabled>Previous</button>
       <button id="next" disabled>Next</button>
@@ -56,9 +60,18 @@
   </div>
 
   <!-- Footer -->
-  <footer class="footer">
+
+  <footer class="footer-content">
+
+  <div class="footer-text">
     <p>All data collected from the AIUB official website.</p>
-  </footer>
+  </div>
+
+  <!-- Right: LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/farhanchowdhury738/" target="_blank" class="linkedin-icon" aria-label="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" />
+  </a>
+</footer>
 
   <!-- External Libraries and Script -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>

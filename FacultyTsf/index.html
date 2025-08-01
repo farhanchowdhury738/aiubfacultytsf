@@ -9,17 +9,25 @@
 <body>
 
   <!-- Header -->
-  <header id="main-header">
-    <div class="header-title">
+<header id="main-header">
+  <div class="header-title">
+    <a href="../index.html" class="home-button">Home</a>
+
+    <div class="title-pair">
       <h1>Faculty TSF</h1>
-      <p>SUMMER 2024-2025</p>
-      <a href="../index.html" class="home-button">Home</a>
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F8F8F8&center=false&vCenter=true&width=300&lines=SUMMER+2024–2025"
+        alt="Typing Animation"
+      />
     </div>
-  </header>
+  </div>
+</header>
+
+
 
   <div class="container">
 
-    <!-- ✅ START CAPTURE AREA -->
+    <!-- START CAPTURE AREA -->
     <div id="capture-area">
 
       <!-- Filters -->
@@ -33,13 +41,13 @@
       <div class="download-area" id="download-area">
         <h2 id="dynamic-header">TSF of [Faculty Name]</h2>
         <div class="card-container" id="card-container">
-          <div class="watermark"></div>
+          
         </div>
         <p class="footer-text" id="footer-text"></p>
       </div>
 
     </div>
-    <!-- ✅ END CAPTURE AREA -->
+    <!-- END CAPTURE AREA -->
 
     <!-- No results -->
     <p id="no-results" class="no-results">No results found.</p>
@@ -55,11 +63,17 @@
   </div>
 
   <!-- Footer -->
-  <div class="footer">
-    <footer>
-      <p>All data collected from the AIUB official website.</p>
-    </footer>
+<footer class="footer-content">
+
+  <div class="footer-text">
+    <p>All data collected from the AIUB official website.</p>
   </div>
+
+  <!-- Right: LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/farhanchowdhury738/" target="_blank" class="linkedin-icon" aria-label="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" />
+  </a>
+</footer>
 
   <!-- Scripts -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
@@ -133,7 +147,7 @@
     }
 
     function displayCards(data) {
-      cardContainer.innerHTML = '<div class="watermark"></div>';
+      cardContainer.innerHTML = '';
 
       const start = (currentPage - 1) * rowsPerPage;
       const end = start + rowsPerPage;
@@ -190,7 +204,7 @@
       }
     });
 
-    // ✅ Modified Download Button Code
+    // Modified Download Button Code
     document.getElementById("download-btn").addEventListener("click", () => {
       const downloadArea = document.getElementById("capture-area");
       downloadArea.classList.add("landscape-download");

@@ -1,0 +1,2459 @@
+[
+    {
+        "SL": 1,
+        "Faculty Name": "DR. MD. ABDUR RAHMAN",
+        "Designation": "Pro Vice Chancellor",
+        "Room No": "DNG01",
+        "Department": "",
+        "Email": "mdrahman@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 2,
+        "Faculty Name": "DR. MOHAMMAD ABDUL MANNAN",
+        "Designation": "Professor & Associate Dean (FE)",
+        "Room No": "DNG02",
+        "Department": "",
+        "Email": "mdmannan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/65852.jpg"
+    },
+    {
+        "SL": 3,
+        "Faculty Name": "NAFIZ AHMED CHISTY",
+        "Designation": "Associate Professor & Head (EEE)",
+        "Room No": "DNG03",
+        "Department": "EEE",
+        "Email": "chisty@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/65772.jpg"
+    },
+    {
+        "SL": 4,
+        "Faculty Name": "PROF. DR. ABM SIDDIQUE HOSSAIN",
+        "Designation": "Dean (FE)",
+        "Room No": "DNG04",
+        "Department": "EEE",
+        "Email": "siddique@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/71249.jpg"
+    },
+    {
+        "SL": 5,
+        "Faculty Name": "TA / INTERN",
+        "Designation": "",
+        "Room No": "DNG05",
+        "Department": "EEE",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 6,
+        "Faculty Name": "DR. MD. SANIAT RAHMAN ZISHAN",
+        "Designation": "Professor & Director (FE)",
+        "Room No": "DNG06",
+        "Department": "",
+        "Email": "saniat@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/76853.jpg"
+    },
+    {
+        "SL": 7,
+        "Faculty Name": "KAZI LUTIFUL HAQUE CHAPAL",
+        "Designation": "Assistant Director",
+        "Room No": "DNG07",
+        "Department": "Admin",
+        "Email": "chapal@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 8,
+        "Faculty Name": "MD. ATIQUL ALAM",
+        "Designation": "Executive",
+        "Room No": "DNG08",
+        "Department": "Procurement",
+        "Email": "atiqul@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 9,
+        "Faculty Name": "MD. REJAUL KARIM",
+        "Designation": "Admin Officer",
+        "Room No": "DNG09",
+        "Department": "Procurement",
+        "Email": "rejaul.karim@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 10,
+        "Faculty Name": "DR. CHOWDHURY AKRAM HOSSAIN",
+        "Designation": "Associate Professor & Head (COE)",
+        "Room No": "DNG08",
+        "Department": "COE",
+        "Email": "chowdhury.akram@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/81417.jpg"
+    },
+    {
+        "SL": 11,
+        "Faculty Name": "SANJAY KUMAR SARKER",
+        "Designation": "Maintenance Engineer",
+        "Room No": "DNG10",
+        "Department": "Physical Plant",
+        "Email": "sanjay@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 12,
+        "Faculty Name": "SYED YEAHIA",
+        "Designation": "Maintenance Engineer",
+        "Room No": "DNG10",
+        "Department": "Physical Plant",
+        "Email": "yeahia@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 13,
+        "Faculty Name": "MAHMUD HASSAN RANA",
+        "Designation": "Deputy Director",
+        "Room No": "DNG11",
+        "Department": "Procurement",
+        "Email": "rana@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 14,
+        "Faculty Name": "MOHAIMEN- BIN- NOOR",
+        "Designation": "Assistant Professor",
+        "Room No": "DNGA01",
+        "Department": "CS",
+        "Email": "mohaimen.niloy@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/109199.jpg"
+    },
+    {
+        "SL": 15,
+        "Faculty Name": "VICTOR STANY ROZARIO",
+        "Designation": "Assistant Professor",
+        "Room No": "DNGA02",
+        "Department": "CS",
+        "Email": "stany@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/105848.jpg"
+    },
+    {
+        "SL": 16,
+        "Faculty Name": "DR. DEBAJYOTI KARMAKER",
+        "Designation": "Associate Professor & Head (CS)",
+        "Room No": "DNGA03",
+        "Department": "CS",
+        "Email": "d.karmaker@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120476.jpg"
+    },
+    {
+        "SL": 17,
+        "Faculty Name": "DR. MD. ABDULLAH - AL - JUBAIR",
+        "Designation": "Senior Assistant Professor & Director (DS)",
+        "Room No": "DNGA04",
+        "Department": "CS",
+        "Email": "abdullah@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/113353.jpg"
+    },
+    {
+        "SL": 18,
+        "Faculty Name": "PROF. DR. DIP NANDI",
+        "Designation": "Professor & Associate Dean (FS)",
+        "Room No": "DNGA05",
+        "Department": "CS",
+        "Email": "dip.nandi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/64843.jpg"
+    },
+    {
+        "SL": 19,
+        "Faculty Name": "MASHIUR RAHMAN",
+        "Designation": "Dean In Charge (FS)",
+        "Room No": "DNGA06",
+        "Department": "CS",
+        "Email": "mashiour@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61011.jpg"
+    },
+    {
+        "SL": 20,
+        "Faculty Name": "DR. MOHAMMAD MAHMUDUL HASAN",
+        "Designation": "Associate Professor",
+        "Room No": "DNGA07",
+        "Department": "CS",
+        "Email": "m.hasan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/102927.jpg"
+    },
+    {
+        "SL": 21,
+        "Faculty Name": "MD. AL-AMIN",
+        "Designation": "Assistant Professor",
+        "Room No": "DNGA08",
+        "Department": "CS",
+        "Email": "alamin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/111039.jpg"
+    },
+    {
+        "SL": 22,
+        "Faculty Name": "TANVIR AHMED",
+        "Designation": "Assistant Professor",
+        "Room No": "DNGA09",
+        "Department": "CS",
+        "Email": "tanvir.ahmed@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/116927.jpg"
+    },
+    {
+        "SL": 23,
+        "Faculty Name": "RIFATH MAHMUD",
+        "Designation": "Associate Professor",
+        "Room No": "DNGA10",
+        "Department": "CS",
+        "Email": "rifath.mahmud@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120410.jpg"
+    },
+    {
+        "SL": 24,
+        "Faculty Name": "ABHIJIT BHOWMIK",
+        "Designation": "Associate Professor (SPA DSA)",
+        "Room No": "DNGA11",
+        "Department": "CS",
+        "Email": "abhujit@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/76682.jpg"
+    },
+    {
+        "SL": 25,
+        "Faculty Name": "SHARFUDDIN MAHMOOD",
+        "Designation": "Assistant Professor (VBA DSA)",
+        "Room No": "DNGA12",
+        "Department": "CS",
+        "Email": "smahmood@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/86503.jpg"
+    },
+    {
+        "SL": 26,
+        "Faculty Name": "IT DEPARTMENT",
+        "Designation": "",
+        "Room No": "DS0101",
+        "Department": "",
+        "Email": "it@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 27,
+        "Faculty Name": "DR. AFROZA NAHAR",
+        "Designation": "Professor",
+        "Room No": "DN0113",
+        "Department": "CS",
+        "Email": "afroza@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61096.jpg"
+    },
+    {
+        "SL": 28,
+        "Faculty Name": "DR. KAMRUDDIN MD. NUR",
+        "Designation": "Professor",
+        "Room No": "DN0114",
+        "Department": "CS",
+        "Email": "kamruddin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/121867.jpg"
+    },
+    {
+        "SL": 29,
+        "Faculty Name": "DR. MD. ASRAF ALI",
+        "Designation": "Professor",
+        "Room No": "DN0115",
+        "Department": "CS",
+        "Email": "asrafali@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/121668.jpg"
+    },
+    {
+        "SL": 30,
+        "Faculty Name": "DR. NAHAR SULTANA",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0116",
+        "Department": "CS",
+        "Email": "nahar@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/75574.jpg"
+    },
+    {
+        "SL": 31,
+        "Faculty Name": "MD. HASIBUL HASAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0117",
+        "Department": "CS",
+        "Email": "hasib.hasan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/103664.jpg"
+    },
+    {
+        "SL": 32,
+        "Faculty Name": "AFSAH SHARMIN",
+        "Designation": "Associate Professor",
+        "Room No": "DN0118",
+        "Department": "CS",
+        "Email": "afsah@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/84784.jpg"
+    },
+    {
+        "SL": 33,
+        "Faculty Name": "SAEEDA SHARMEEN RAHMAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0119",
+        "Department": "CS",
+        "Email": "sharmeen@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/130283.jpg"
+    },
+    {
+        "SL": 34,
+        "Faculty Name": "SIRAJUM MUNIRA SHIFAT",
+        "Designation": "Lecturer",
+        "Room No": "DN0120",
+        "Department": "CS",
+        "Email": "munirasirajum@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/131670.jpg"
+    },
+    {
+        "SL": 35,
+        "Faculty Name": "TOHEDUL ISLAM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0121",
+        "Department": "CS",
+        "Email": "islamtohedul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/100146.jpg"
+    },
+    {
+        "SL": 36,
+        "Faculty Name": "SYED NAFIUL SHEFAT",
+        "Designation": "Lecturer",
+        "Room No": "DN0122",
+        "Department": "CS",
+        "Email": "nafiul.shefat@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127703.jpg"
+    },
+    {
+        "SL": 37,
+        "Faculty Name": "NYME AHMED",
+        "Designation": "Lecturer",
+        "Room No": "DN0123",
+        "Department": "CS",
+        "Email": "nyme.ahmed@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127668.jpg"
+    },
+    {
+        "SL": 38,
+        "Faculty Name": "ZAHIDUDDIN AHMED",
+        "Designation": "Lecturer",
+        "Room No": "DN0124",
+        "Department": "CS",
+        "Email": "zahid@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/110418.jpg"
+    },
+    {
+        "SL": 39,
+        "Faculty Name": "SAZIA SHARMIN",
+        "Designation": "Lecturer",
+        "Room No": "DN0125",
+        "Department": "CS",
+        "Email": "sazia.sharmin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142103.jpg"
+    },
+    {
+        "SL": 40,
+        "Faculty Name": "SHAKILA RAHMAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0126",
+        "Department": "CS",
+        "Email": "Shakila.Rahman@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/129697.jpg"
+    },
+    {
+        "SL": 41,
+        "Faculty Name": "MD. RIFAT",
+        "Designation": "Lecturer",
+        "Room No": "DN0127A",
+        "Department": "CS",
+        "Email": "rifat.m@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/137136.jpg"
+    },
+    {
+        "SL": 42,
+        "Faculty Name": "MD. RAIHAN MAHMUD",
+        "Designation": "Lecturer",
+        "Room No": "DN0127B",
+        "Department": "CS",
+        "Email": "raihan.mahmud@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142106.jpg"
+    },
+    {
+        "SL": 43,
+        "Faculty Name": "ANIK KUMAR SAHA",
+        "Designation": "Lecturer",
+        "Room No": "DN0127C",
+        "Department": "CS",
+        "Email": "anik.kumar@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142105.jpg"
+    },
+    {
+        "SL": 44,
+        "Faculty Name": "TOFAYET SULTAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0127D",
+        "Department": "CS",
+        "Email": "tofayet@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/137137.jpg"
+    },
+    {
+        "SL": 45,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0127E",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 46,
+        "Faculty Name": "DR. MD MEHEDI HASAN",
+        "Designation": "Associate Professor",
+        "Room No": "DN0213",
+        "Department": "CS",
+        "Email": "mmehihasan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/118504.jpg"
+    },
+    {
+        "SL": 47,
+        "Faculty Name": "DR. MD. MANZURUL HASAN",
+        "Designation": "Associate Professor",
+        "Room No": "DN0214",
+        "Department": "CS",
+        "Email": "manzurul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/102926.jpg"
+    },
+    {
+        "SL": 48,
+        "Faculty Name": "PROF. DR. MD. RAFIQUL ISLAM",
+        "Designation": "Professor",
+        "Room No": "DN0215",
+        "Department": "CS",
+        "Email": "dmri@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/77370.jpg"
+    },
+    {
+        "SL": 49,
+        "Faculty Name": "MD. ANWARUL KABIR",
+        "Designation": "Associate Professor",
+        "Room No": "DN0216",
+        "Department": "CS",
+        "Email": "kabir@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/60989.jpg"
+    },
+    {
+        "SL": 50,
+        "Faculty Name": "KAWSER IROM RUSHEE",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0217",
+        "Department": "CS",
+        "Email": "rushee@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/105851.jpg"
+    },
+    {
+        "SL": 51,
+        "Faculty Name": "RIFAT TASNIM ANANNYA",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0218",
+        "Department": "CS",
+        "Email": "rifat.tasnim@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/113354.jpg"
+    },
+    {
+        "SL": 52,
+        "Faculty Name": "SAZZAD HOSSAIN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0219",
+        "Department": "CS",
+        "Email": "sazzad@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/117013.jpg"
+    },
+    {
+        "SL": 53,
+        "Faculty Name": "DR. RAZUAN KARIM",
+        "Designation": "Associate Professor",
+        "Room No": "DN0220",
+        "Department": "CS",
+        "Email": "rkarim@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135407.jpg"
+    },
+    {
+        "SL": 54,
+        "Faculty Name": "MD. MAHMUDUR RAHMAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0221",
+        "Department": "CS",
+        "Email": "mahmudur@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/126037.jpg"
+    },
+    {
+        "SL": 55,
+        "Faculty Name": "SYEDA NISHAT TASNIM",
+        "Designation": "Lecturer",
+        "Room No": "DN0222",
+        "Department": "CS",
+        "Email": "nishat@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127677.jpg"
+    },
+    {
+        "SL": 56,
+        "Faculty Name": "DR. MOUSHUMI ZAMAN BONNY",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0223",
+        "Department": "CS",
+        "Email": "zaman.moushumi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/131795.jpg"
+    },
+    {
+        "SL": 57,
+        "Faculty Name": "SHAIKAT DAS JOY",
+        "Designation": "Lecturer",
+        "Room No": "DN0224",
+        "Department": "CS",
+        "Email": "skdas@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136694.jpg"
+    },
+    {
+        "SL": 58,
+        "Faculty Name": "SYEDA ASRAFA ISLAM",
+        "Designation": "Lecturer",
+        "Room No": "DN0225",
+        "Department": "CS",
+        "Email": "syeda.asrafa@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/137134.jpg"
+    },
+    {
+        "SL": 59,
+        "Faculty Name": "RAHNUMA TASMIN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0226",
+        "Department": "CS",
+        "Email": "tasmin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142401.jpg"
+    },
+    {
+        "SL": 60,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0227A",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 61,
+        "Faculty Name": "MAHMUDUL HASAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0227B",
+        "Department": "CS",
+        "Email": "mahmudul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142101.jpg"
+    },
+    {
+        "SL": 62,
+        "Faculty Name": "MD. SAZID UDDIN",
+        "Designation": "Lecturer",
+        "Room No": "DN0227C",
+        "Department": "CS",
+        "Email": "azid.uddin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142474.jpg"
+    },
+    {
+        "SL": 63,
+        "Faculty Name": "SULTANUL ARIFEEN HAMIM",
+        "Designation": "Lecturer",
+        "Room No": "DN0227D",
+        "Department": "CS",
+        "Email": "hamim@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143920.jpg"
+    },
+    {
+        "SL": 64,
+        "Faculty Name": "SAFEQ PRINTING",
+        "Designation": "",
+        "Room No": "DN0227E",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 65,
+        "Faculty Name": "RIFAT AL MAMUN RUDRO",
+        "Designation": "Lecturer",
+        "Room No": "DS0201A",
+        "Department": "CS",
+        "Email": "mamun.rudro@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143925.jpg"
+    },
+    {
+        "SL": 66,
+        "Faculty Name": "NUSRAT JAHAN TRISNA",
+        "Designation": "Lecturer",
+        "Room No": "DS0201B",
+        "Department": "CS",
+        "Email": "nusrat.trisna@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142349.jpg"
+    },
+    {
+        "SL": 67,
+        "Faculty Name": "SUMAIYA MALIK",
+        "Designation": "Lecturer",
+        "Room No": "DS0201C",
+        "Department": "CS",
+        "Email": "malik.sumaiya@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 68,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DS0201D",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 69,
+        "Faculty Name": "MD. ARIFUL ISLAM",
+        "Designation": "",
+        "Room No": "DS0201E",
+        "Department": "",
+        "Email": "ariful@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135780.jpg"
+    },
+    {
+        "SL": 70,
+        "Faculty Name": "DR. MOHAMMAD KHURSHED ALAM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0313",
+        "Department": "CS",
+        "Email": "khurshed709@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/118421.jpg"
+    },
+    {
+        "SL": 71,
+        "Faculty Name": "DR. MD. KAMRUL HASSAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0314",
+        "Department": "CS",
+        "Email": "mdkamrul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/73305.jpg"
+    },
+    {
+        "SL": 72,
+        "Faculty Name": "DR. M. TANSEER ALI",
+        "Designation": "Professor",
+        "Room No": "DN0315",
+        "Department": "CS",
+        "Email": "tanseer@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/91969.jpg"
+    },
+    {
+        "SL": 73,
+        "Faculty Name": "DR. AMBAREEN ATISHA",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0316",
+        "Department": "CS",
+        "Email": "ambareen@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145578.jpg"
+    },
+    {
+        "SL": 74,
+        "Faculty Name": "NUZAT NURAY ALAM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0317",
+        "Department": "CS",
+        "Email": "nuzatalam@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 75,
+        "Faculty Name": "MEHEDI HASAN",
+        "Designation": "Senior Assistant Professor",
+        "Room No": "DN0318",
+        "Department": "CS",
+        "Email": "mehedi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/101634.jpg"
+    },
+    {
+        "SL": 76,
+        "Faculty Name": "ABIR AHMED",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0319",
+        "Department": "CS",
+        "Email": "abir.ahmed@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/114964.jpg"
+    },
+    {
+        "SL": 77,
+        "Faculty Name": "MAHMOODUL ISLAM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0320",
+        "Department": "CS",
+        "Email": "mahmood@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/71255.jpg"
+    },
+    {
+        "SL": 78,
+        "Faculty Name": "MD. ALOMGIR KABIR",
+        "Designation": "Associate Professor",
+        "Room No": "DN0321",
+        "Department": "CS",
+        "Email": "akabir@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135446.jpg"
+    },
+    {
+        "SL": 79,
+        "Faculty Name": "S M TANVIR HASSAN SHOVON",
+        "Designation": "Lecturer",
+        "Room No": "DN0322",
+        "Department": "CS",
+        "Email": "tshovon@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135581.jpg"
+    },
+    {
+        "SL": 80,
+        "Faculty Name": "MOHAMMAD ASHIQUR NOOR",
+        "Designation": "Lecturer",
+        "Room No": "DN0323",
+        "Department": "CS",
+        "Email": "ashiqurnoor@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143789.jpg"
+    },
+    {
+        "SL": 81,
+        "Faculty Name": "NILOY GOSWAMI",
+        "Designation": "Lecturer",
+        "Room No": "DN0324",
+        "Department": "CS",
+        "Email": "ngoswami@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136843.jpg"
+    },
+    {
+        "SL": 82,
+        "Faculty Name": "MD. MAHMUDUL HASAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0325",
+        "Department": "CS",
+        "Email": "mahmud@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142286.jpg"
+    },
+    {
+        "SL": 84,
+        "Faculty Name": "NOWSHIN ALAM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0326",
+        "Department": "EEE",
+        "Email": "nowshin.alam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/114966.jpg"
+    },
+    {
+        "SL": 85,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DS0301A",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 86,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DS0301B",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 87,
+        "Faculty Name": "FAREHA RAIDA ISLAM",
+        "Designation": "Lecturer",
+        "Room No": "DS0301C",
+        "Department": "ECONO",
+        "Email": "fareha.islam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145567.jpg"
+    },
+    {
+        "SL": 88,
+        "Faculty Name": "MOHAMMAD RABIB UDDIN",
+        "Designation": "Sessional Lecturer",
+        "Room No": "DS0301D",
+        "Department": "EEE",
+        "Email": "rabib@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 89,
+        "Faculty Name": "ARJIT SAHA",
+        "Designation": "Sessional Lecturer",
+        "Room No": "DS0301E",
+        "Department": "EEE",
+        "Email": "arajit.saha@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 90,
+        "Faculty Name": "DEBRAJ DAS",
+        "Designation": "Sessional Lecturer",
+        "Room No": "DS0301F",
+        "Department": "EEE",
+        "Email": "debraj@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 91,
+        "Faculty Name": "SUMAIYA TABASSUM",
+        "Designation": "Lecturer",
+        "Room No": "DN0413",
+        "Department": "EEE",
+        "Email": "s.tabassum@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145566.jpg"
+    },
+    {
+        "SL": 92,
+        "Faculty Name": "DR. MOHAMMAD TAWHIDUL ALAM",
+        "Designation": "Professor",
+        "Room No": "DN0414",
+        "Department": "EEE",
+        "Email": "tawhidul.alam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/125057.jpg"
+    },
+    {
+        "SL": 93,
+        "Faculty Name": "DR. MD. HUMAYUN KABIR",
+        "Designation": "Associate Professor",
+        "Room No": "DN0415",
+        "Department": "EEE",
+        "Email": "drkabir@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/101635.jpg"
+    },
+    {
+        "SL": 94,
+        "Faculty Name": "DR. MD. HASAN IMAM",
+        "Designation": "Associate Professor",
+        "Room No": "DN0416",
+        "Department": "COE",
+        "Email": "hasan.imam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/63532.jpg"
+    },
+    {
+        "SL": 95,
+        "Faculty Name": "DR. SHAHRIYAR MASUD RIZVI",
+        "Designation": "Associate Professor",
+        "Room No": "DN0417",
+        "Department": "EEE",
+        "Email": "shahriyar@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61923.jpg"
+    },
+    {
+        "SL": 96,
+        "Faculty Name": "DR. MD. ASHADUZZAMAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0418",
+        "Department": "Physics",
+        "Email": "ashad@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143792.jpg"
+    },
+    {
+        "SL": 97,
+        "Faculty Name": "DR. TANBIR IBNE ANOWAR",
+        "Designation": "Associate Professor",
+        "Room No": "DN0419",
+        "Department": "EEE",
+        "Email": "dr.tanbir@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/126160.jpg"
+    },
+    {
+        "SL": 98,
+        "Faculty Name": "MD. ASHIQUZZAMAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0420",
+        "Department": "EEE",
+        "Email": "ashiquzzaman.eee@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127775.jpg"
+    },
+    {
+        "SL": 99,
+        "Faculty Name": "MD. SAJID HOSSAIN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0421",
+        "Department": "",
+        "Email": "sajidh@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/99615.jpg"
+    },
+    {
+        "SL": 100,
+        "Faculty Name": "JOHEB MUHAMMAD TANZEER SAYEED",
+        "Designation": "Lecturer",
+        "Room No": "DN0422",
+        "Department": "EEE",
+        "Email": "joheb.sayeed@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/125058.jpg"
+    },
+    {
+        "SL": 101,
+        "Faculty Name": "ABU SHUFIAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0423",
+        "Department": "EEE",
+        "Email": "shufian.eee@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/130228.jpg"
+    },
+    {
+        "SL": 102,
+        "Faculty Name": "LIA MONI",
+        "Designation": "Lecturer",
+        "Room No": "DN0424",
+        "Department": "EEE",
+        "Email": "lia.moni@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142304.jpg"
+    },
+    {
+        "SL": 103,
+        "Faculty Name": "PROTIK PARVEZ SHEIKH",
+        "Designation": "Senior Lecturer",
+        "Room No": "DN0425",
+        "Department": "EEE",
+        "Email": "protik@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/130290.jpg"
+    },
+    {
+        "SL": 104,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0426",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 105,
+        "Faculty Name": "MAHMUD HASAN",
+        "Designation": "Lecturer",
+        "Room No": "DS0401A",
+        "Department": "Math",
+        "Email": "mahmudhasan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143840.jpg"
+    },
+    {
+        "SL": 106,
+        "Faculty Name": "PRATYYA GHOSH",
+        "Designation": "Lecturer",
+        "Room No": "DS0401B",
+        "Department": "Math",
+        "Email": "pratyy.a.ghosh@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143839.jpg"
+    },
+    {
+        "SL": 107,
+        "Faculty Name": "AFNAN RASHID TUSHAR",
+        "Designation": "Lecturer",
+        "Room No": "DS0401C",
+        "Department": "Math",
+        "Email": "afnan.rashid@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142096.jpg"
+    },
+    {
+        "SL": 108,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DS0401D",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 109,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DS0401E",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 110,
+        "Faculty Name": "TUSAR SAHA",
+        "Designation": "Lecturer",
+        "Room No": "DS0401F",
+        "Department": "Physics",
+        "Email": "tusar.saha@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135423.jpg"
+    },
+    {
+        "SL": 111,
+        "Faculty Name": "DR. EFFAT JAHAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0513",
+        "Department": "EEE",
+        "Email": "effat@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/118501.jpg"
+    },
+    {
+        "SL": 112,
+        "Faculty Name": "DR. MUHIBUL HAQUE BHUYAN",
+        "Designation": "Professor",
+        "Room No": "DN0514",
+        "Department": "EEE",
+        "Email": "muhibulhb@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/125507.jpg"
+    },
+    {
+        "SL": 113,
+        "Faculty Name": "DR. MD. KABIRUZZAMAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0515",
+        "Department": "EEE",
+        "Email": "kabiruzzaman@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/117240.jpg"
+    },
+    {
+        "SL": 114,
+        "Faculty Name": "DR. MD. RIFAT HAZARI",
+        "Designation": "Associate Professor (SPA EEE)",
+        "Room No": "DN0516",
+        "Department": "EEE",
+        "Email": "rifat@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/102941.jpg"
+    },
+    {
+        "SL": 115,
+        "Faculty Name": "MD. SHAHARIAR PARVEZ",
+        "Designation": "Assistant Professor (SPA DSA)",
+        "Room No": "DN0517",
+        "Department": "COE",
+        "Email": "shahariar.parvez@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/117075.jpg"
+    },
+    {
+        "SL": 116,
+        "Faculty Name": "DR. EBAD ZAHIR",
+        "Designation": "Senior Assistant Professor",
+        "Room No": "DN0518",
+        "Department": "EEE",
+        "Email": "ebad.zahir@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/65850.jpg"
+    },
+    {
+        "SL": 117,
+        "Faculty Name": "DR. MOHAMMAD ALIF ARMAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0519",
+        "Department": "EEE",
+        "Email": "dr.alifarman@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127754.jpg"
+    },
+    {
+        "SL": 118,
+        "Faculty Name": "BISMOY JAHAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0520",
+        "Department": "EEE",
+        "Email": "bismoy.jahan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/125059.jpg"
+    },
+    {
+        "SL": 119,
+        "Faculty Name": "MD. ALI NOOR",
+        "Designation": "Lecturer",
+        "Room No": "DN0521",
+        "Department": "COE",
+        "Email": "noor@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/67016.jpg"
+    },
+    {
+        "SL": 120,
+        "Faculty Name": "SADMAN SHAHRIAR ALAM",
+        "Designation": "Lecturer",
+        "Room No": "DN0522",
+        "Department": "EEE",
+        "Email": "sadman.alam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127786.jpg"
+    },
+    {
+        "SL": 121,
+        "Faculty Name": "SAMIHA ISHRAT ISLAM",
+        "Designation": "Lecturer",
+        "Room No": "DN0523",
+        "Department": "EEE",
+        "Email": "samiha.islam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/84733.jpg"
+    },
+    {
+        "SL": 122,
+        "Faculty Name": "MD. SHAORAN SAYEM",
+        "Designation": "Lecturer",
+        "Room No": "DN0524",
+        "Department": "EEE",
+        "Email": "shaoranmss@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136842.jpg"
+    },
+    {
+        "SL": 123,
+        "Faculty Name": "TAHSEEN ASMA MEEM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0525",
+        "Department": "EEE",
+        "Email": "tahseen@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/113417.jpg"
+    },
+    {
+        "SL": 124,
+        "Faculty Name": "SADIA RAKINUR RAB",
+        "Designation": "Lecturer",
+        "Room No": "DN0526",
+        "Department": "EEE",
+        "Email": "sadia.rab@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143788.jpg"
+    },
+    {
+        "SL": 125,
+        "Faculty Name": "MIRZA ASIF MAHMUD",
+        "Designation": "",
+        "Room No": "DN0527A",
+        "Department": "",
+        "Email": "mirza.asif@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145564.jpg"
+    },
+    {
+        "SL": 126,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0527B",
+        "Department": "",
+        "Email": "mahmud.abdullah@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145563.jpg"
+    },
+    {
+        "SL": 127,
+        "Faculty Name": "ABDULLAH ALL MAHMUD",
+        "Designation": "Lecturer",
+        "Room No": "DN0527C",
+        "Department": "Math",
+        "Email": "fayz.math@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145563.jpg"
+    },
+    {
+        "SL": 128,
+        "Faculty Name": "MD. FAYZ-AL-ASAD",
+        "Designation": "Lecturer",
+        "Room No": "DN0527D",
+        "Department": "Math",
+        "Email": "akib.ahmed@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135442.jpg"
+    },
+    {
+        "SL": 129,
+        "Faculty Name": "AKIB AHMED",
+        "Designation": "",
+        "Room No": "DN0527E",
+        "Department": "",
+        "Email": "faria.sultana@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142091.jpg"
+    },
+    {
+        "SL": 130,
+        "Faculty Name": "FARIA SULTANA",
+        "Designation": "",
+        "Room No": "DS0501A",
+        "Department": "",
+        "Email": "",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145565.jpg"
+    },
+    {
+        "SL": 131,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DS0501B",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 132,
+        "Faculty Name": "SHABAB MURSHED",
+        "Designation": "Lecturer",
+        "Room No": "DS0501C",
+        "Department": "",
+        "Email": "shabab.murshed@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145560.jpg"
+    },
+    {
+        "SL": 133,
+        "Faculty Name": "KAZI TANVIR",
+        "Designation": "Lecturer",
+        "Room No": "DS0501D",
+        "Department": "",
+        "Email": "kazi.tanvir@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145558.jpg"
+    },
+    {
+        "SL": 134,
+        "Faculty Name": "SANDIPAN PAUL",
+        "Designation": "Lecturer",
+        "Room No": "DS0501E",
+        "Department": "",
+        "Email": "sandipan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145562.jpg"
+    },
+    {
+        "SL": 135,
+        "Faculty Name": "FAHAD KHANDOKER",
+        "Designation": "Lecturer",
+        "Room No": "DS0501F",
+        "Department": "",
+        "Email": "fahad.khandoker@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145551.jpg"
+    },
+    {
+        "SL": 136,
+        "Faculty Name": "K.M.IMTIAZ-UD-DIN",
+        "Designation": "Lecturer",
+        "Room No": "DN0613",
+        "Department": "",
+        "Email": "k.m.imtiaz@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/125046.jpg"
+    },
+    {
+        "SL": 137,
+        "Faculty Name": "FARZANA BENTE ALAM",
+        "Designation": "",
+        "Room No": "DN0614",
+        "Department": "",
+        "Email": "farzana.alam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/115014.jpg"
+    },
+    {
+        "SL": 138,
+        "Faculty Name": "MD. MUSTAK UN NOBI",
+        "Designation": "",
+        "Room No": "DN0615",
+        "Department": "",
+        "Email": "mustak.nobi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142347.jpg"
+    },
+    {
+        "SL": 139,
+        "Faculty Name": "JUEANA AHMED NOSHIN",
+        "Designation": "",
+        "Room No": "DN0616",
+        "Department": "",
+        "Email": "jueana@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/106638.jpg"
+    },
+    {
+        "SL": 140,
+        "Faculty Name": "MIR MD. KAWSUR",
+        "Designation": "",
+        "Room No": "DN0617",
+        "Department": "",
+        "Email": "kawsur@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120409.jpg"
+    },
+    {
+        "SL": 141,
+        "Faculty Name": "SIFAT RAHMAN AHONA",
+        "Designation": "Assistant Professor (SPA DSA)",
+        "Room No": "DN0618",
+        "Department": "",
+        "Email": "abena@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/113336.jpg"
+    },
+    {
+        "SL": 142,
+        "Faculty Name": "NUZHAT TABASSUM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0619",
+        "Department": "",
+        "Email": "nuzhat.tabassum@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136625.jpg"
+    },
+    {
+        "SL": 143,
+        "Faculty Name": "MD. KHAIRUL ALAM MAZUMDER",
+        "Designation": "Lecturer",
+        "Room No": "DN0620",
+        "Department": "CS",
+        "Email": "khairul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/137138.jpg"
+    },
+    {
+        "SL": 144,
+        "Faculty Name": "SAMIHA ISLAM ABRITA",
+        "Designation": "Lecturer",
+        "Room No": "DN0621",
+        "Department": "CS",
+        "Email": "abrita@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/137163.jpg"
+    },
+    {
+        "SL": 145,
+        "Faculty Name": "JUBAYER AHAMED",
+        "Designation": "Lecturer",
+        "Room No": "DN0622",
+        "Department": "CS",
+        "Email": "jubayer@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135405.jpg"
+    },
+    {
+        "SL": 146,
+        "Faculty Name": "SAIKAT BAUL",
+        "Designation": "Lecturer",
+        "Room No": "DN0623",
+        "Department": "CS",
+        "Email": "saikatbaul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136697.jpg"
+    },
+    {
+        "SL": 147,
+        "Faculty Name": "NOBORANJAN DEY",
+        "Designation": "Lecturer",
+        "Room No": "DN0624",
+        "Department": "CS",
+        "Email": "noboranjon@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135406.jpg"
+    },
+    {
+        "SL": 148,
+        "Faculty Name": "NAZMUS SAKIB SHAN",
+        "Designation": "Lecturer",
+        "Room No": "DN0625",
+        "Department": "CS",
+        "Email": "shan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120399.jpg"
+    },
+    {
+        "SL": 149,
+        "Faculty Name": "SUPTA RICHARD PHILIP",
+        "Designation": "Lecturer",
+        "Room No": "DN0626",
+        "Department": "CS",
+        "Email": "richard@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/118414.jpg"
+    },
+    {
+        "SL": 150,
+        "Faculty Name": "ZINNIYA TAFFANUM PRITEE",
+        "Designation": "Lecturer",
+        "Room No": "DS0601A",
+        "Department": "CS",
+        "Email": "zinniya.pritee@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143790.jpg"
+    },
+    {
+        "SL": 151,
+        "Faculty Name": "MEHEDI HASAN",
+        "Designation": "Lecturer",
+        "Room No": "DS0601B",
+        "Department": "CS",
+        "Email": "mehedi.cs@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143953.jpg"
+    },
+    {
+        "SL": 152,
+        "Faculty Name": "TAMANNA ZAMAN BRISTY",
+        "Designation": "Lecturer",
+        "Room No": "DS0601C",
+        "Department": "",
+        "Email": "tamannabristy@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136686.jpg"
+    },
+    {
+        "SL": 153,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DS0601D",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 154,
+        "Faculty Name": "WAHIDUL ALAM RIYAD",
+        "Designation": "Lecturer",
+        "Room No": "DS0601E",
+        "Department": "",
+        "Email": "wahid.riyad@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143893.jpg"
+    },
+    {
+        "SL": 155,
+        "Faculty Name": "ATKIA AKILA KARIM",
+        "Designation": "Lecturer",
+        "Room No": "DS0601F",
+        "Department": "CS",
+        "Email": "atkia.akila@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142350.jpg"
+    },
+    {
+        "SL": 156,
+        "Faculty Name": "SAMIUL HAQUE SUMAN",
+        "Designation": "Network Engineer",
+        "Room No": "DS0701",
+        "Department": "",
+        "Email": "samiul@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 157,
+        "Faculty Name": "SHAKIL MOJUMDAR",
+        "Designation": "Lecturer",
+        "Room No": "DN0713",
+        "Department": "Math",
+        "Email": "skmojumdar@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135464.jpg"
+    },
+    {
+        "SL": 158,
+        "Faculty Name": "DR. JYOTISH CHANDRA DEBNATH",
+        "Designation": "Associate Professor",
+        "Room No": "DN0714",
+        "Department": "Physics",
+        "Email": "dr.debnath@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135425.jpg"
+    },
+    {
+        "SL": 159,
+        "Faculty Name": "DR. FIROZ AHMED",
+        "Designation": "Professor",
+        "Room No": "DN0715",
+        "Department": "CS",
+        "Email": "fahmed@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135614.jpg"
+    },
+    {
+        "SL": 160,
+        "Faculty Name": "DR. SHARMIN JAHAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0716",
+        "Department": "Physics",
+        "Email": "sharmin.phy@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135544.jpg"
+    },
+    {
+        "SL": 161,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0717",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 162,
+        "Faculty Name": "ROUSHANARA BEGUM",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0718",
+        "Department": "Math",
+        "Email": "roushan.begum@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/105854.jpg"
+    },
+    {
+        "SL": 163,
+        "Faculty Name": "PROF. M. A. QUAIYUM",
+        "Designation": "Professor",
+        "Room No": "DN0719",
+        "Department": "",
+        "Email": "maquaiyum@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61065.jpg"
+    },
+    {
+        "SL": 164,
+        "Faculty Name": "DR. MD. MOZAHAR ALI",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0720",
+        "Department": "Physics",
+        "Email": "mozahar.ali@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/126155.jpg"
+    },
+    {
+        "SL": 165,
+        "Faculty Name": "DR. FARZANA SABETH",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0721",
+        "Department": "Physics",
+        "Email": "fsabeth@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61532.jpg"
+    },
+    {
+        "SL": 166,
+        "Faculty Name": "DR. SARFUDDIN AHMED TAREK",
+        "Designation": "Associate Professor",
+        "Room No": "DN0722",
+        "Department": "Physics",
+        "Email": "satarek@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61051.jpg"
+    },
+    {
+        "SL": 167,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0723",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 168,
+        "Faculty Name": "DR. NAZIB ABDUN NASIR",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0724",
+        "Department": "CS",
+        "Email": "nazib.nasir@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142475.jpg"
+    },
+    {
+        "SL": 169,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0725",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 170,
+        "Faculty Name": "ASIF CHOWDHURY",
+        "Designation": "Lecturer",
+        "Room No": "DN0726",
+        "Department": "Math",
+        "Email": "asifmathdu@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135580.jpg"
+    },
+    {
+        "SL": 171,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DE0702A",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 172,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DE0702B",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 173,
+        "Faculty Name": "FURHATUN-NOOR",
+        "Designation": "Lecturer",
+        "Room No": "DE0702C",
+        "Department": "Pharmacy",
+        "Email": "",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/143348.jpg"
+    },
+    {
+        "SL": 174,
+        "Faculty Name": "DR. ARIF MOSTOFA KHAN",
+        "Designation": "",
+        "Room No": "DE0702D",
+        "Department": "OCSM",
+        "Email": "",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145618.jpg"
+    },
+    {
+        "SL": 175,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DE0702E",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 176,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DE0702F",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 177,
+        "Faculty Name": "DR. HUMAYRA FERDOUS",
+        "Designation": "Associate Professor & Head (DE)",
+        "Room No": "DS0801",
+        "Department": "",
+        "Email": "hferdou@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/78223.jpg"
+    },
+    {
+        "SL": 178,
+        "Faculty Name": "DR. MOHAMMAD MAHBUB RABBANI",
+        "Designation": "Senior Assistant Professor",
+        "Room No": "DN0814",
+        "Department": "Chemistry",
+        "Email": "mmrabbani@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 179,
+        "Faculty Name": "DR. FARZANA KHALIL",
+        "Designation": "Senior Assistant Professor",
+        "Room No": "DN0815",
+        "Department": "Chemistry",
+        "Email": "farzana.khalil@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 180,
+        "Faculty Name": "DR. S. MOSADDEQ AHMED",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0816",
+        "Department": "Chemistry",
+        "Email": "sm.ahmed@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 181,
+        "Faculty Name": "SALMA BEGOM",
+        "Designation": "Senior Assistant Professor",
+        "Room No": "DN0817",
+        "Department": "Chemistry",
+        "Email": "salma@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61019.jpg"
+    },
+    {
+        "SL": 182,
+        "Faculty Name": "DR. MD. NURUL KABIR BHUIYAN",
+        "Designation": "Professor & Head",
+        "Room No": "DN0818",
+        "Department": "Physics",
+        "Email": "bhuiyan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/98922.jpg"
+    },
+    {
+        "SL": 183,
+        "Faculty Name": "DR. MD. HABIB ULLAH",
+        "Designation": "Associate Professor",
+        "Room No": "DN0819",
+        "Department": "Physics",
+        "Email": "habib581@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/71883.jpg"
+    },
+    {
+        "SL": 184,
+        "Faculty Name": "DR. MOHAMMAD TARIQUL ISLAM",
+        "Designation": "Associate Professor",
+        "Room No": "DN0820",
+        "Department": "Physics",
+        "Email": "tariqul@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 185,
+        "Faculty Name": "DR. MOHAMMAD ANISUR RAHMAN JAMIL",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0821",
+        "Department": "Chemistry",
+        "Email": "anisur.jamil@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 186,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0822",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 187,
+        "Faculty Name": "DR. MAHUJABIN TASKIN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0823",
+        "Department": "Physics",
+        "Email": "mtaskin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120417.jpg"
+    },
+    {
+        "SL": 188,
+        "Faculty Name": "DR. SHOVAN KUMAR KUNDU",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0824",
+        "Department": "Physics",
+        "Email": "shovan.kundu@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120415.jpg"
+    },
+    {
+        "SL": 189,
+        "Faculty Name": "DR. MD. SAIFUL ISLAM",
+        "Designation": "Professor",
+        "Room No": "DN0825",
+        "Department": "Physics",
+        "Email": "sislam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/71879.jpg"
+    },
+    {
+        "SL": 190,
+        "Faculty Name": "DR. MD. SAROWAR HOSSAIN",
+        "Designation": "Professor",
+        "Room No": "DN0826",
+        "Department": "Physics",
+        "Email": "sakil_phy@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/130225.jpg"
+    },
+    {
+        "SL": 191,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "DN0827A",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 192,
+        "Faculty Name": "ISRAT KABIR",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0827B",
+        "Department": "Physics",
+        "Email": "israt@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/87967.jpg"
+    },
+    {
+        "SL": 193,
+        "Faculty Name": "BITHI PAUL",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0827C",
+        "Department": "Physics",
+        "Email": "bithi.paul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/113345.jpg"
+    },
+    {
+        "SL": 194,
+        "Faculty Name": "MD. BORHAN UDDIN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0827D",
+        "Department": "Physics",
+        "Email": "borhan.uddin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135432.jpg"
+    },
+    {
+        "SL": 195,
+        "Faculty Name": "DR. REZAUL KARIM SIDDIQUE",
+        "Designation": "Associate Professor",
+        "Room No": "DN0827E",
+        "Department": "Physics",
+        "Email": "siddiquerk@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/63471.jpg"
+    },
+    {
+        "SL": 196,
+        "Faculty Name": "NAZMUL HASAN",
+        "Designation": "Professor",
+        "Room No": "DS0901",
+        "Department": "",
+        "Email": "nazmul.hasan@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 197,
+        "Faculty Name": "MD. MORTUZA AHMMED",
+        "Designation": "Associate Professor",
+        "Room No": "DN0913",
+        "Department": "Math",
+        "Email": "mortuza@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/103644.jpg"
+    },
+    {
+        "SL": 198,
+        "Faculty Name": "DR. MAHFUZA KHATUN",
+        "Designation": "Lecturer",
+        "Room No": "DN0914",
+        "Department": "Math",
+        "Email": "mahfuzah@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/83687.jpg"
+    },
+    {
+        "SL": 199,
+        "Faculty Name": "PROF. DR. KH. ABDUL MALEQUE",
+        "Designation": "Associate Professor",
+        "Room No": "DN0915",
+        "Department": "Math",
+        "Email": "maleque@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/61048.jpg"
+    },
+    {
+        "SL": 200,
+        "Faculty Name": "DR. M. MOSTAFIZUR RAHMAN",
+        "Designation": "Associate Professor & Head (DS)",
+        "Room No": "DN0916",
+        "Department": "Math",
+        "Email": "mostafiz.math@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/98978.jpg"
+    },
+    {
+        "SL": 201,
+        "Faculty Name": "DR. FATEMA TUZ ZOHRA",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0917",
+        "Department": "Physics",
+        "Email": "fatema@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/78215.jpg"
+    },
+    {
+        "SL": 202,
+        "Faculty Name": "DR. DILRUBA YASMIN",
+        "Designation": "Associate Professor",
+        "Room No": "DN0918",
+        "Department": "Math",
+        "Email": "dilruba.yasmin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120754.jpg"
+    },
+    {
+        "SL": 203,
+        "Faculty Name": "TANZIA ZERIN KHAN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0919",
+        "Department": "Math",
+        "Email": "tanzia@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/78377.jpg"
+    },
+    {
+        "SL": 204,
+        "Faculty Name": "PRODIP KUMAR GHOSE",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0920",
+        "Department": "Math",
+        "Email": "prodip@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/79704.jpg"
+    },
+    {
+        "SL": 205,
+        "Faculty Name": "ZASMIN HAQUE",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0921",
+        "Department": "Math",
+        "Email": "zasmin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/116907.jpg"
+    },
+    {
+        "SL": 206,
+        "Faculty Name": "MOST. NADIA TAMANNA",
+        "Designation": "Lecturer",
+        "Room No": "DN0922",
+        "Department": "Math",
+        "Email": "nadia.tamanna@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/131617.jpg"
+    },
+    {
+        "SL": 207,
+        "Faculty Name": "DR. MAHADEB KUMAR DAS",
+        "Designation": "Lecturer",
+        "Room No": "DN0923",
+        "Department": "Math",
+        "Email": "mahadeb@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/116925.jpg"
+    },
+    {
+        "SL": 208,
+        "Faculty Name": "DR. SALAIKA PARVIN",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0924",
+        "Department": "Math",
+        "Email": "skparvin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135434.jpg"
+    },
+    {
+        "SL": 209,
+        "Faculty Name": "SHANTA DEB",
+        "Designation": "Lecturer",
+        "Room No": "DN0925",
+        "Department": "Math",
+        "Email": "shanta.deb@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/125043.jpg"
+    },
+    {
+        "SL": 210,
+        "Faculty Name": "AYESHA SIDDIQUA",
+        "Designation": "Assistant Professor",
+        "Room No": "DN0926",
+        "Department": "Math",
+        "Email": "ayesha.siddiqua@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/81469.jpg"
+    },
+    {
+        "SL": 211,
+        "Faculty Name": "MD. RIFAT HASAN RUBEL",
+        "Designation": "Lecturer",
+        "Room No": "DN0927A",
+        "Department": "Math",
+        "Email": "rifat.rubel@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 212,
+        "Faculty Name": "UMMA KULSUM",
+        "Designation": "Lecturer",
+        "Room No": "DN0927B",
+        "Department": "Math",
+        "Email": "umma.kulsum@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 213,
+        "Faculty Name": "DR. MADHABI ISLAM",
+        "Designation": "Professor",
+        "Room No": "DN0927E",
+        "Department": "Math",
+        "Email": "drmadhabi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/72113.jpg"
+    },
+    {
+        "SL": 214,
+        "Faculty Name": "MD. ASADUZZAMAN KHAN",
+        "Designation": "Assistant Professor",
+        "Room No": "9208B",
+        "Department": "CS",
+        "Email": "mohammad.khan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/145579.jpg"
+    },
+    {
+        "SL": 215,
+        "Faculty Name": "DR. GOUR CHAND MAZUMDER",
+        "Designation": "Assistant Professor",
+        "Room No": "9208C",
+        "Department": "CS",
+        "Email": "dr.mazumder@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135447.jpg"
+    },
+    {
+        "SL": 216,
+        "Faculty Name": "RAZA RASHIDUL HASAN",
+        "Designation": "Associate Professor",
+        "Room No": "9208D",
+        "Department": "CS",
+        "Email": "hemal@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/90657.jpg"
+    },
+    {
+        "SL": 217,
+        "Faculty Name": "KAZI FIROZ AHMED",
+        "Designation": "Associate Professor",
+        "Room No": "9208E",
+        "Department": "CS",
+        "Email": "k.firoz@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/80788.jpg"
+    },
+    {
+        "SL": 218,
+        "Faculty Name": "DR. MD. RUKONUZZAMAN",
+        "Designation": "Associate Professor",
+        "Room No": "9208F",
+        "Department": "CS",
+        "Email": "rzaman@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136603.jpg"
+    },
+    {
+        "SL": 219,
+        "Faculty Name": "DR. MUHAMMAD MORSHED ALAM",
+        "Designation": "Associate Professor",
+        "Room No": "9208G",
+        "Department": "CS",
+        "Email": "dr.malam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135461.jpg"
+    },
+    {
+        "SL": 220,
+        "Faculty Name": "RETHWAN FAIZ",
+        "Designation": "Associate Professor",
+        "Room No": "9208H",
+        "Department": "CS",
+        "Email": "rethwan.faiz@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/88996.jpg"
+    },
+    {
+        "SL": 221,
+        "Faculty Name": "ABU HENA MD. SHATIL",
+        "Designation": "Associate Professor",
+        "Room No": "9208I",
+        "Department": "CS",
+        "Email": "abu.shatil@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/89072.jpg"
+    },
+    {
+        "SL": 222,
+        "Faculty Name": "TAMIM HOSSAIN",
+        "Designation": "Lecturer",
+        "Room No": "9208J",
+        "Department": "CS",
+        "Email": "tamim@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127765.jpg"
+    },
+    {
+        "SL": 223,
+        "Faculty Name": "BISHWAJIT BANIK PATHIK",
+        "Designation": "Lecturer",
+        "Room No": "9208K",
+        "Department": "CS",
+        "Email": "bishwaji@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/76851.jpg"
+    },
+    {
+        "SL": 224,
+        "Faculty Name": "PROF. DR. NOWSHAD AMIN",
+        "Designation": "Senior Assistant Professor",
+        "Room No": "9308A",
+        "Department": "EEE",
+        "Email": "nowshad@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136351.jpg"
+    },
+    {
+        "SL": 225,
+        "Faculty Name": "DR. MD. EHASANUL HAQUE",
+        "Designation": "Senior Assistant Professor & Head (PE)",
+        "Room No": "9308B",
+        "Department": "CS",
+        "Email": "ehasanul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/114386.jpg"
+    },
+    {
+        "SL": 226,
+        "Faculty Name": "DR. MD. MAHADI HASAN",
+        "Designation": "Assistant Professor",
+        "Room No": "9308C",
+        "Department": "CS",
+        "Email": "mahadi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/123363.jpg"
+    },
+    {
+        "SL": 227,
+        "Faculty Name": "DR. MONON MAHBOOB",
+        "Designation": "Associate Professor",
+        "Room No": "9308D",
+        "Department": "CS",
+        "Email": "monon@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136604.jpg"
+    },
+    {
+        "SL": 228,
+        "Faculty Name": "MAHAMUDUL HASSAN",
+        "Designation": "Assistant Professor",
+        "Room No": "9308E",
+        "Department": "CS",
+        "Email": "mahamud.ipe@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127793.jpg"
+    },
+    {
+        "SL": 229,
+        "Faculty Name": "DR. MOHAMMAD TAUHIDUZZAMAN",
+        "Designation": "Assistant Professor",
+        "Room No": "9308F",
+        "Department": "CS",
+        "Email": "mtouhid@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/144038.jpg"
+    },
+    {
+        "SL": 230,
+        "Faculty Name": "AHNAF TAHMID",
+        "Designation": "Lecturer",
+        "Room No": "9308G",
+        "Department": "CS",
+        "Email": "ahnaf.tahmid@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/144041.jpg"
+    },
+    {
+        "SL": 231,
+        "Faculty Name": "FARZANA MOMTAZ MITHILA",
+        "Designation": "Lecturer",
+        "Room No": "9308H",
+        "Department": "CS",
+        "Email": "farzana.mithila@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/142296.jpg"
+    },
+    {
+        "SL": 232,
+        "Faculty Name": "DR. WAHIDA CHOWDHURY",
+        "Designation": "Assistant Professor",
+        "Room No": "9308I",
+        "Department": "CS",
+        "Email": "wahida@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/144040.jpg"
+    },
+    {
+        "SL": 233,
+        "Faculty Name": "DR. NADIA AFROZE",
+        "Designation": "Assistant Professor",
+        "Room No": "9308J",
+        "Department": "CS",
+        "Email": "nadiaafroze@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/90663.jpg"
+    },
+    {
+        "SL": 234,
+        "Faculty Name": "SADIA YASMIN",
+        "Designation": "Assistant Professor",
+        "Room No": "9308K",
+        "Department": "CS",
+        "Email": "sadia@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/99619.jpg"
+    },
+    {
+        "SL": 235,
+        "Faculty Name": "MD. MAZID-UL-HAQUE",
+        "Designation": "Lecturer",
+        "Room No": "9408A",
+        "Department": "Math",
+        "Email": "mazid@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/121875.jpg"
+    },
+    {
+        "SL": 236,
+        "Faculty Name": "DR. RAJARSHI ROY CHOWDHURY",
+        "Designation": "Lecturer",
+        "Room No": "9408B",
+        "Department": "CS",
+        "Email": "rajarshi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136676.jpg"
+    },
+    {
+        "SL": 237,
+        "Faculty Name": "DR. MUHAMMAD HASIBUR RASHID CHAYON",
+        "Designation": "Assistant Professor",
+        "Room No": "9408C",
+        "Department": "CS",
+        "Email": "chayon@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/144039.jpg"
+    },
+    {
+        "SL": 238,
+        "Faculty Name": "SYMA KAMAL CHAITY",
+        "Designation": "Lecturer",
+        "Room No": "9408D",
+        "Department": "CS",
+        "Email": "chaity@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/127661.jpg"
+    },
+    {
+        "SL": 239,
+        "Faculty Name": "ANEEM AL AHSAN RUPAI",
+        "Designation": "Lecturer",
+        "Room No": "9408E",
+        "Department": "CS",
+        "Email": "aneem@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/116929.jpg"
+    },
+    {
+        "SL": 240,
+        "Faculty Name": "AMINUN NAHAR",
+        "Designation": "Lecturer",
+        "Room No": "9408F",
+        "Department": "CS",
+        "Email": "aminun.nahar@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135615.jpg"
+    },
+    {
+        "SL": 241,
+        "Faculty Name": "DIPTA JUSTIN GOMES",
+        "Designation": "Lecturer",
+        "Room No": "9408G",
+        "Department": "CS",
+        "Email": "diaptagomes@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/118416.jpg"
+    },
+    {
+        "SL": 242,
+        "Faculty Name": "MD. REAZUL ISLAM",
+        "Designation": "Lecturer",
+        "Room No": "9408H",
+        "Department": "CS",
+        "Email": "reazul@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136683.jpg"
+    },
+    {
+        "SL": 243,
+        "Faculty Name": "DR. ASHRAF UDDIN",
+        "Designation": "Lecturer",
+        "Room No": "9408I",
+        "Department": "CS",
+        "Email": "dr.ashraf@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/114938.jpg"
+    },
+    {
+        "SL": 244,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 245,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 246,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 247,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 248,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 249,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 250,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 251,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 252,
+        "Faculty Name": "TONNY SHEKHA KAR",
+        "Designation": "Lecturer",
+        "Room No": "9408J",
+        "Department": "CS",
+        "Email": "tonny.kar@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135555.jpg"
+    },
+    {
+        "SL": 253,
+        "Faculty Name": "DR. MOHAMMAD RABIUL ISLAM",
+        "Designation": "Assistant Professor",
+        "Room No": "9408K",
+        "Department": "CS",
+        "Email": "rabiul.islam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/129686.jpg"
+    },
+    {
+        "SL": 254,
+        "Faculty Name": "MD. FARUK ABDULLAH AL SOHAN",
+        "Designation": "Lecturer",
+        "Room No": "9410A",
+        "Department": "CS",
+        "Email": "faruk.sohan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/125045.jpg"
+    },
+    {
+        "SL": 255,
+        "Faculty Name": "MD. MAJIBUL HASSAN IMRAN",
+        "Designation": "Lecturer",
+        "Room No": "9410B",
+        "Department": "Math",
+        "Email": "imran.math@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/140128.jpg"
+    },
+    {
+        "SL": 256,
+        "Faculty Name": "KAZI HABIB ULLAH",
+        "Designation": "Lecturer",
+        "Room No": "9410C",
+        "Department": "Math",
+        "Email": "kazi.habib@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/137140.jpg"
+    },
+    {
+        "SL": 257,
+        "Faculty Name": "DR. ABDULLAH AL NAHID",
+        "Designation": "Assistant Professor",
+        "Room No": "9410D",
+        "Department": "Chemistry",
+        "Email": "dr.nahid@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 258,
+        "Faculty Name": "MST. UMMAY SUMAYA",
+        "Designation": "Lecturer",
+        "Room No": "9410E",
+        "Department": "Physics",
+        "Email": "ummay.sumaya@aiub.edu",
+        "image": null
+    },
+    {
+        "SL": 259,
+        "Faculty Name": "DR. NUSRAT JAHAN",
+        "Designation": "Associate Professor",
+        "Room No": "9410F",
+        "Department": "Physics",
+        "Email": "njahan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/74840.jpg"
+    },
+    {
+        "SL": 260,
+        "Faculty Name": "",
+        "Designation": "",
+        "Room No": "9508A",
+        "Department": "",
+        "Email": "",
+        "image": null
+    },
+    {
+        "SL": 261,
+        "Faculty Name": "S M ABDULLAH SHAFI",
+        "Designation": "Lecturer (SPA DSA)",
+        "Room No": "9508B",
+        "Department": "CS",
+        "Email": "shafi@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/128652.jpg"
+    },
+    {
+        "SL": 262,
+        "Faculty Name": "KAZI SADIA",
+        "Designation": "Assistant Professor",
+        "Room No": "9508C",
+        "Department": "CS",
+        "Email": "kazi.sadia@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120411.jpg"
+    },
+    {
+        "SL": 263,
+        "Faculty Name": "SYEDA ANIKA TASNIM",
+        "Designation": "Lecturer",
+        "Room No": "9508D",
+        "Department": "CS",
+        "Email": "anika.tasnim@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/120412.jpg"
+    },
+    {
+        "SL": 264,
+        "Faculty Name": "MD SAJID BIN-FAISAL",
+        "Designation": "Lecturer",
+        "Room No": "9508E",
+        "Department": "CS",
+        "Email": "sajid@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/123364.jpg"
+    },
+    {
+        "SL": 265,
+        "Faculty Name": "NAZIA ALFAZ",
+        "Designation": "Lecturer",
+        "Room No": "9508F",
+        "Department": "CS",
+        "Email": "nazia.alfaz@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/121874.jpg"
+    },
+    {
+        "SL": 266,
+        "Faculty Name": "DR. MD IFTEKHARUL MOBIN",
+        "Designation": "Assistant Professor",
+        "Room No": "9508G",
+        "Department": "CS",
+        "Email": "iftekhar.mobin@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/129685.jpg"
+    },
+    {
+        "SL": 267,
+        "Faculty Name": "MAHFUJUJUR RAHMAN",
+        "Designation": "Assistant Professor",
+        "Room No": "9508H",
+        "Department": "CS",
+        "Email": "mahfuj@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/121319.jpg"
+    },
+    {
+        "SL": 268,
+        "Faculty Name": "DR. ABDUS SALAM",
+        "Designation": "Associate Professor",
+        "Room No": "9508I",
+        "Department": "CS",
+        "Email": "abdus.salam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/86257.jpg"
+    },
+    {
+        "SL": 269,
+        "Faculty Name": "MD. HASSAN FARUK",
+        "Designation": "Lecturer",
+        "Room No": "9510A",
+        "Department": "Math",
+        "Email": "hfaruk@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135436.jpg"
+    },
+    {
+        "SL": 270,
+        "Faculty Name": "MD. MEHEDI HASAN",
+        "Designation": "Lecturer",
+        "Room No": "9510B",
+        "Department": "Math",
+        "Email": "md.hasan@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135435.jpg"
+    },
+    {
+        "SL": 271,
+        "Faculty Name": "SNIGDHA DHAR",
+        "Designation": "Lecturer",
+        "Room No": "9510C",
+        "Department": "Math",
+        "Email": "snigdha@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/136978.jpg"
+    },
+    {
+        "SL": 272,
+        "Faculty Name": "MAYESHA SHARMIM TISHA",
+        "Designation": "Lecturer",
+        "Room No": "9510D",
+        "Department": "Math",
+        "Email": "tisha.math@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135465.jpg"
+    },
+    {
+        "SL": 273,
+        "Faculty Name": "KHADIZA AKTER MITU",
+        "Designation": "Assistant Professor",
+        "Room No": "9510E",
+        "Department": "Math",
+        "Email": "khadiza@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/114395.jpg"
+    },
+    {
+        "SL": 274,
+        "Faculty Name": "SAMIRA SALAM",
+        "Designation": "Lecturer",
+        "Room No": "9510F",
+        "Department": "Math",
+        "Email": "samira.salam@aiub.edu",
+        "image": "https://aiub.edu//Files/Uploads/public-employee-profiles/profile-pictures/135431.jpg"
+    }
+]

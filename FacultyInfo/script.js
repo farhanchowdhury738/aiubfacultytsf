@@ -112,7 +112,7 @@ nextButton.addEventListener("click", () => {
 });
 
 document.getElementById("download-btn").addEventListener("click", () => {
-  const downloadArea = document.getElementById("download-area");
+  const downloadArea = document.getElementById("capture-area"); // 🔄 CHANGED from download-area
   downloadArea.classList.add("landscape-download");
 
   function getOrdinalSuffix(day) {

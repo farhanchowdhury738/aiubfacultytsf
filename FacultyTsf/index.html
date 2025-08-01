@@ -1,56 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIUB Faculty TSF</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AIUB Faculty TSF</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header id="main-header">
-  <div class="header-title">
-    <h1>Faculty TSF</h1>
-    <p>SUMMER 2024-2025</p>
-    <a href="../index.html" class="home-button">Home</a>
-  </div>
-</header>
+  <!-- Header -->
+  <header id="main-header">
+    <div class="header-title">
+      <h1>Faculty TSF</h1>
+      <p>SUMMER 2024-2025</p>
+      <a href="../index.html" class="home-button">Home</a>
+    </div>
+  </header>
 
-  
   <div class="container">
-    <div class="filters">
-      <input list="faculty-list" id="faculty-input" placeholder="Search Faculty Name" />
-      <datalist id="faculty-list"></datalist>
-      <input type="text" id="search" placeholder="Search Course or Room" />
-    </div>
-    
-    <div class="download-area" id="download-area">
-      <h2 id="dynamic-header">TSF of [Faculty Name]</h2>
-      <div class="card-container" id="card-container">
-        <div class="watermark"></div>
-      </div>
-      <p class="footer-text" id="footer-text"></p>
-    </div>
 
+    <!-- ✅ START CAPTURE AREA -->
+    <div id="capture-area">
+
+      <!-- Filters -->
+      <div class="filters">
+        <input list="faculty-list" id="faculty-input" placeholder="Search Faculty Name" />
+        <datalist id="faculty-list"></datalist>
+        <input type="text" id="search" placeholder="Search Course or Room" />
+      </div>
+
+      <!-- Display Area -->
+      <div class="download-area" id="download-area">
+        <h2 id="dynamic-header">TSF of [Faculty Name]</h2>
+        <div class="card-container" id="card-container">
+          <div class="watermark"></div>
+        </div>
+        <p class="footer-text" id="footer-text"></p>
+      </div>
+
+    </div>
+    <!-- ✅ END CAPTURE AREA -->
+
+    <!-- No results -->
     <p id="no-results" class="no-results">No results found.</p>
+
+    <!-- Download Button -->
     <button id="download-btn">Download as Image</button>
+
+    <!-- Pagination Controls -->
     <div class="pagination" id="pagination-controls">
       <button id="prev" disabled>Previous</button>
       <button id="next" disabled>Next</button>
     </div>
   </div>
 
+  <!-- Footer -->
   <div class="footer">
     <footer>
       <p>All data collected from the AIUB official website.</p>
-   </footer>
+    </footer>
+  </div>
 
+  <!-- Scripts -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 
-
-
   <script>
-
     const searchInput = document.getElementById("search");
     const facultyInput = document.getElementById("faculty-input");
     const facultyList = document.getElementById("faculty-list");
@@ -176,41 +190,42 @@
       }
     });
 
+    // ✅ Modified Download Button Code
     document.getElementById("download-btn").addEventListener("click", () => {
-  const downloadArea = document.getElementById("download-area");
-  downloadArea.classList.add("landscape-download");
+      const downloadArea = document.getElementById("capture-area");
+      downloadArea.classList.add("landscape-download");
 
-  function getOrdinalSuffix(day) {
-    if (day > 3 && day < 21) return "th";
-    switch (day % 10) {
-      case 1: return "st";
-      case 2: return "nd";
-      case 3: return "rd";
-      default: return "th";
-    }
-  }
+      function getOrdinalSuffix(day) {
+        if (day > 3 && day < 21) return "th";
+        switch (day % 10) {
+          case 1: return "st";
+          case 2: return "nd";
+          case 3: return "rd";
+          default: return "th";
+        }
+      }
 
-  const now = new Date();
-  const day = now.getDate();
-  const month = now.toLocaleString("default", { month: "long" });
-  const year = now.getFullYear();
-  const formattedDate = `${day}${getOrdinalSuffix(day)} ${month} ${year}`;
-  const time = now.toLocaleTimeString();
-  document.getElementById("footer-text").textContent = `Generated from FARHAN-DEV, Downloaded on ${formattedDate} at ${time}.`;
+      const now = new Date();
+      const day = now.getDate();
+      const month = now.toLocaleString("default", { month: "long" });
+      const year = now.getFullYear();
+      const formattedDate = `${day}${getOrdinalSuffix(day)} ${month} ${year}`;
+      const time = now.toLocaleTimeString();
 
-  html2canvas(downloadArea, {
-    scale: 2,
-    useCORS: true,
-    allowTaint: true
-  }).then(canvas => {
-    downloadArea.classList.remove("landscape-download");
-    const link = document.createElement("a");
-    link.download = "tsf.png";
-    link.href = canvas.toDataURL("image/png", 1.0);
-    link.click();
-  });
-});
+      footerText.textContent = `Generated from FARHAN-DEV, Downloaded on ${formattedDate} at ${time}.`;
 
+      html2canvas(downloadArea, {
+        scale: 2,
+        useCORS: true,
+        allowTaint: true
+      }).then(canvas => {
+        downloadArea.classList.remove("landscape-download");
+        const link = document.createElement("a");
+        link.download = "tsf.png";
+        link.href = canvas.toDataURL("image/png", 1.0);
+        link.click();
+      });
+    });
   </script>
 </body>
 </html>

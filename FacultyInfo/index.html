@@ -18,23 +18,29 @@
 
   <!-- Main Container -->
   <div class="container">
-    
-    <!-- Filter Inputs -->
-    <div class="filters">
-      <input list="faculty-list" id="faculty-input" placeholder="Search Faculty Name" />
-      <datalist id="faculty-list"></datalist>
 
-      <input type="text" id="search" placeholder="Search Room, Department, Designation" />
-    </div>
+    <!-- ✅ Start of new wrapper -->
+    <div id="capture-area">
 
-    <!-- Downloadable Display Area -->
-    <div class="download-area" id="download-area">
-      <h2 id="dynamic-header">[Faculty Name]</h2>
-      <div class="card-container" id="card-container">
-        <!-- Faculty cards will be injected here -->
+      <!-- Filter Inputs -->
+      <div class="filters">
+        <input list="faculty-list" id="faculty-input" placeholder="Search Faculty Name" />
+        <datalist id="faculty-list"></datalist>
+
+        <input type="text" id="search" placeholder="Search Room, Department, Designation" />
       </div>
-      <p class="footer-text" id="footer-text"></p>
+
+      <!-- Downloadable Display Area -->
+      <div class="download-area" id="download-area">
+        <h2 id="dynamic-header">[Faculty Name]</h2>
+        <div class="card-container" id="card-container">
+          <!-- Faculty cards will be injected here -->
+        </div>
+        <p class="footer-text" id="footer-text"></p>
+      </div>
+
     </div>
+    <!-- ✅ End of wrapper -->
 
     <!-- No Results Message -->
     <p id="no-results" class="no-results">No results found.</p>

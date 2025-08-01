@@ -297,6 +297,12 @@ h3 {
 
 
 /* ====== Landscape Download View for Image Export ====== */
+.landscape-download {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
 .landscape-download .card-container {
   display: grid !important;
   grid-template-columns: repeat(4, 1fr) !important;

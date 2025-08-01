@@ -47,7 +47,7 @@ header {
   color: #d1d5db;
 }
 
-.home-button{
+.home-button {
   color: white;
   font-weight: bold;
   padding: 8px 16px;
@@ -262,7 +262,19 @@ h3 {
   }
 }
 
-/* ====== Landscape Download View for Image Export ====== */
+/* ====== Placeholder Style ====== */
+::placeholder {
+  font-size: 12px;
+  color: #888;
+}
+
+/* ====== ✅ Landscape Download View for Image Export ====== */
+.landscape-download {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
 .landscape-download .card-container {
   display: grid !important;
   grid-template-columns: repeat(4, 1fr) !important;
@@ -286,10 +298,4 @@ h3 {
 
 .landscape-download .watermark {
   opacity: 0.05 !important;
-}
-
-/* ====== Placeholder Style ====== */
-::placeholder {
-  font-size: 12px;
-  color: #888;
 }

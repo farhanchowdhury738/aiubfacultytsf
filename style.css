@@ -1,7 +1,10 @@
 /* ====== Global Base Styles ====== */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f9;
+  background-image: url("/images/aiub.jpg"); /* Replace with your image path */
+  background-size: cover;        /* Optional: makes the image cover the full screen */
+  background-repeat: no-repeat;  /* Optional: prevents tiling */
+  background-position: center;   /* Optional: centers the image */
   margin: 0;
   padding: 0;
   color: #333;
@@ -9,6 +12,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
+
 
 /* ====== Fixed Header ====== */
 header {
@@ -66,7 +70,7 @@ header {
 
 /* ====== Card Styles ====== */
 .card {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.8); /* White with 80% opacity */
   border: 2px solid #dcdcdc;
   border-radius: 10px;
   width: 250px;
@@ -80,6 +84,7 @@ header {
   align-items: center;
   justify-content: center;
 }
+
 
 .card:hover {
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
